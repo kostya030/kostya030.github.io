@@ -1,0 +1,22 @@
+{
+  "name": "kostya030",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostya030/kostya030.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostya030/kostya030/issues"
+  },
+  "homepage": "https://github.com/kostya030/kostya030#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
